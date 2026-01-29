@@ -1,0 +1,6 @@
+Mais um raciocínio curioso da #AnaCavalieri no podcast "O Elefante na Sala". Segundo ela, esta contestação da Administração Trump aos tribunais prende-com a existência de juízes "activistas" que "tendem a interpretam a lei de um modo que é abusivo (...) que depois só é corrigido num forte recurso nomeadamente ao nível do Supremo Tribunal fazendo com que a acção do executivo atrase e perca a eficácia que é necessária (...)",
+§e este é, ao que parece, um debate interessante entre constitucionalistas, e que leva a que, a determinada altura em vez de um presidente e 
+a sua administração existam juízes que obrigam essa administração a cumprir uma acção executiva que não é a sua. 
+
+§Esse debate pode ser interessante, mas tenho a impressão de que já se chegou a uma conclusão. É claro que não sou perito nesta área, mas tenho a ideia de que a Constituição pode ser alterada. Parece que lhe chamam emendas e há quem diga que até existem 27. Portanto, o debate em causa, que até pode ser muito interessante, só pode ser entre aqueles de acreditam num sistema de pesos e contra-pesos em que vigora o primado da lei, e aqueles que querem uma ditadura "to own the libs". 
+ 
