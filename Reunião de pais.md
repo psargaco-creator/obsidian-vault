@@ -1,0 +1,27 @@
+- 6 alunos com média superior a 16
+- Turma funciona bem
+- Todos os professores gostam de trabalhar com a turma
+- Há sempre alunos que vão às aulas de coadjuvação
+- Em biologia há alunos que se dão pior porque tbm são mais fracos a português e têm de escrever mais
+- Voleibol correu bem
+- Gostaram da apresentação sobre a biotecnologia
+- Uma aluna participou no PE dos jovens em ?
+- Actividade de filosofia mais actividade menos ecrã ontem
+- EF vai haver torneio de futsal 
+- Saída de campo para Cascais ao mesmo tempo que o torneio mas vai rever as datas
+- O próximo período vai passar muito depressa e vai ser duro
+- 6 dias entre os dois exames. Têm de preparar os dois exames com antecedência 
+- Assembleias de turma - liberdade de expressão, emigração, casas de banho mistas, avaliações
+- Prof pode ter de faltar a algumas aulas por fazer parte do secretariado de exames.
+- exames primeira fase- 
+	- biologia 6af 20 junho 9:30
+	- FQ 5af 26 junho 9:30
+	- afixação de pautas 15 de julho 
+- exames 2a fase
+	- FQ - 2af 21 julho 
+	- Biologia - 4af 23 julho
+	- afixação de pautas 5 agosto 
+- Prof aconselha a pedir apoio a um dos professores antes de pedir revisão de exames porque a nota pode baixar depois da revisão 
+- A média da turma é superior à média do ano em.todas as cadeiras excepto em bio/geo
+- falei da questão das correcções do prof de português. A prof disse que o aluno deve falar com o prof e se não resultar, falar com ela.
+- 
