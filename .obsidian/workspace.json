@@ -164,13 +164,23 @@
               "icon": "lucide-list",
               "title": "Outline of O que está por trás do rapto de Maduro"
             }
+          },
+          {
+            "id": "6ab7690de4c3f84a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
