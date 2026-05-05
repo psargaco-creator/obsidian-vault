@@ -21,10 +21,14 @@
             "id": "f77f92ce68bc36c5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização de diagrama de grafo"
+              "type": "markdown",
+              "state": {
+                "file": "2026-05-05.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-05-05"
             }
           }
         ],
@@ -176,6 +180,7 @@
   },
   "active": "f77f92ce68bc36c5",
   "lastOpenFiles": [
+    "2026-05-05.md",
     "Mosquiteiros.md",
     "Mosquiteiro escritório 90×200.md",
     "Painel para o quarto.md",
