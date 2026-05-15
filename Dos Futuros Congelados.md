@@ -1,1 +1,1 @@
-Escrever sobre o artigo (da Space Daily)https://spacedaily.com/d-tokyo-isnt-the-future-anymore-its-the-future-1980s-pop-culture-promised-us-perfectly-preserved-while-seoul-shenzhen-and-dubai-have-spent-the-last-decade-building-the-version-that-comes/>
+Escrever sobre o artigo [[da Space Daily]] https://spacedaily.com/d-tokyo-isnt-the-future-anymore-its-the-future-1980s-pop-culture-promised-us-perfectly-preserved-while-seoul-shenzhen-and-dubai-have-spent-the-last-decade-building-the-version-that-comes/>
